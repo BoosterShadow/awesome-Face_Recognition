@@ -16,7 +16,8 @@ this collecting the papers (mainly from arxiv.org) about bellow themes:
 > * **[Face Retrieval](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-retrieval)**; 
 > * **[Face Application](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-application)**; 
 > * **[Model Accleration && Model Compression](https://github.com/ChanChiChoi/awesome-Face_Recognition#model-acceleration--model-compression)**; 
-> * **[Others](https://github.com/ChanChiChoi/awesome-Face_Recognition#others)**; 
+> * **[Others](https://zzz
+github.com/ChanChiChoi/awesome-Face_Recognition#others)**; 
 > * **[DataSets](https://github.com/ChanChiChoi/awesome-Face_Recognition#datasets)**
 
 also, some papers and links collected from:
