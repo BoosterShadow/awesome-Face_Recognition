@@ -38,6 +38,6 @@ void main()
 	}
 	else
 		printf("\nLooks like it's cold outside");
-	printf("\nprivet");
+	printf("\nprivetå");
 	_getch();
 }
